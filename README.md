@@ -2,7 +2,7 @@
 - 👀 I’m interested in making video games 🕹️
 - 🌱 I’m currently learning GDScript / Godot
 - 📫 How to reach me ⚠️TBD⚠️
--  Favorite Bible Verses: Psalms 119:7-8
+- ✝️ Favorite Bible Verses: Psalms 119:7-8
 - ⚡ Fun fact: I'm learning to swim!
 
 <!---
